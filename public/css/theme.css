@@ -1,0 +1,23 @@
+/* ============================================================
+   PALETA Y TIPOGRAFÍA DEL LOCAL
+   Para cambiar la identidad visual de toda la tienda alcanza con editar estos valores.
+   (Paleta provisoria: reemplazala por los colores reales del local.)
+   ============================================================ */
+:root {
+  --brand: #B03A6B;        /* color principal: botones, links, detalles */
+  --brand-dark: #862A50;   /* hover del color principal */
+  --brand-soft: #F8E8EF;   /* fondo suave del color principal */
+
+  --ink: #211A1E;          /* texto principal */
+  --muted: #6B6068;        /* texto secundario */
+  --line: #E8DFE3;         /* bordes */
+  --bg: #FFFFFF;           /* fondo de la página */
+  --bg-soft: #FAF5F7;      /* fondo de secciones alternas */
+
+  --ok: #17784A;
+  --warn: #9A4A06;
+  --bad: #B3261E;
+
+  --font: "Jost", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --radius: 10px;
+}
